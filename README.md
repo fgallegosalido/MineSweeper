@@ -8,3 +8,5 @@ To execute the programm in Linux, first move to the project directory and just e
 $> make all
 $> ./buscaminas
 ```
+
+All instructions to run the program are given by the program itself.
